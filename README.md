@@ -1,4 +1,4 @@
-# Kyryllova_Lab
+# Kyryllova_Sofia_Lab_IPZ-4.04
 
 [Лабораторна робота №1](https://github.com/DvalStuff/lab_1.git) <br>
 [Лабораторна робота №2](https://github.com/DvalStuff/lab_2.git) <br>
