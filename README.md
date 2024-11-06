@@ -6,4 +6,4 @@
 [Лабораторна робота №4](https://github.com/DvalStuff/lab_4.git) <br>
 [Лабораторна робота №5](https://github.com/DvalStuff/lab_5.git) <br>
 [Лабораторна робота №6](https://github.com/DvalStuff/lab_6.git) <br>
-
+[Лабораторна робота №7](https://github.com/DvalStuff/lab_7.git) <br>
